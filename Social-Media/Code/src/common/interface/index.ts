@@ -1,0 +1,7 @@
+export * from './comment.interface'
+export * from './notification.interface'
+export * from './pagaination.interface'
+export * from './post.interface'
+export * from './react.interface'
+export * from './user.interface'
+export * from './story.interface'
